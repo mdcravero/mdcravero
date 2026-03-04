@@ -1,4 +1,6 @@
-# Hi there! 👋 I'm an Infrastructure Architect and GitOps enthusiast building from Córdoba, Argentina.
+# Hi there! 👋 
+
+## I'm an Infrastructure Architect and GitOps enthusiast building from Arroyito, Córdoba, Argentina 🇦🇷.
 
 I am deeply passionate about designing, automating, and occasionally breaking (to fix) enterprise-grade infrastructure on bare-metal environments. My main proving ground is my HomeLab, where I turn heterogeneous hardware into highly available clusters.
 
